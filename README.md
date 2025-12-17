@@ -15,7 +15,7 @@ It does not constitute a system disclosure, commercial offering, or request for 
 
 ## How to Review
 
-1. Read the PDF in `paper/`
+1. Read the PDF in `Technical_Review_Timing_Phase_Interface`
 2. Cross-check assumptions and definitions against `REFERENCES.md`
 3. Provide critique on: (i) model assumptions, (ii) constraint regimes, (iii) failure modes
 
