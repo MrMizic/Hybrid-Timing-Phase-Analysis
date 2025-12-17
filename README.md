@@ -1,20 +1,26 @@
 # Hybrid Timing and Phase Analysis
 
-This repository contains a technical analysis examining timing, phase-alignment, and jitter constraints that arise when classical control systems interface with coherence-sensitive subsystems.
+This repository contains a technical review document analyzing timing, phase-alignment, and jitter constraints that arise when classical control systems interface with coherence-sensitive subsystems.
 
-The work is intentionally scoped to abstract models and known physical constraints. No specific architecture, implementation, or commercial system is proposed.
+The scope is intentionally limited to abstract models and known physical constraints. No specific architecture, implementation, or commercial system is proposed.
 
 ## Contents
 
 - `paper/` — Primary technical review document (PDF)
-- Supporting figures and appendices may be added in future revisions
+- `REFERENCES.md` — Reference list supporting the analysis
 
 ## Scope and Intent
 
-This material is provided solely for technical scrutiny and discussion.  
+This material is provided solely for technical scrutiny and discussion.
 It does not constitute a system disclosure, commercial offering, or request for collaboration.
 
-## Citation
+## How to Review
 
-If referencing this work, please cite the associated DOI issued via Zenodo once a release is created.
+1. Read the PDF in `paper/`
+2. Cross-check assumptions and definitions against `REFERENCES.md`
+3. Provide critique on: (i) model assumptions, (ii) constraint regimes, (iii) failure modes
+
+## License
+
+See `LICENSE`.
 
