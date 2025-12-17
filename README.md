@@ -3,10 +3,9 @@
 This repository contains a technical review document analyzing timing, phase-alignment, and jitter constraints that arise when classical control systems interface with coherence-sensitive subsystems.
 
 The scope is intentionally limited to abstract models and known physical constraints. No specific architecture, implementation, or commercial system is proposed.
-
 ## Contents
 
-- `paper/` — Primary technical review document (PDF)
+- `Technical_Review_Timing_Phase_Interface` — Primary technical review document (PDF)
 - `REFERENCES.md` — Reference list supporting the analysis
 
 ## Scope and Intent
